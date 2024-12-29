@@ -10,6 +10,7 @@ const Background = () => {
         <Note />
         <Note />
         <Note />
+        <Note />
       </div>
     </div>
   );
